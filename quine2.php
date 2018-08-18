@@ -1,0 +1,1 @@
+<?=str_replace(chr(9),$a="PD89c3RyX3JlcGxhY2UoY2hyKDkpLCRhPSIJIixiYXNlNjRfZGVjb2RlKCRhKSk7",base64_decode($a));

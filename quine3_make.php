@@ -1,0 +1,1 @@
+<?='<?php$a="'.base64_encode($a="echo\"<?php\\\$a='\".\$a.\"';\".base64_decode(\$a);").'";'.$a;
